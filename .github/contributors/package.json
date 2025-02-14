@@ -13,7 +13,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
-    "@octokit/graphql": "^4.4.0",
+    "@octokit/graphql": "^8.2.0",
     "@types/node": "^14.0.1",
     "name-your-contributors": "^3.8.3",
     "typescript": "^3.9.2"
